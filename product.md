@@ -18,7 +18,21 @@ YOUR ANSWER GOES HERE ...
    For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
  * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
 
-
+ We are planning to build a (iOS, Android)? mobile application for the purpose of digitizing physical schedules (posters, handouts, etc.). 
+ 
+ ANSWER: 
+ 
+ It is common to attend events and find that the schedules are either posted up on walls or passed around as handouts or booklets. It is quite a pain to
+ have to carry sheets of paper around with you. The solution is obvious: Why not take a picture of the schedule? That leads us directly to the purpose/benefit 
+ of this application. 
+ 
+ Taking a photo simply puts the schedule on the phones camera roll, which is only the basic functionality described by the phrase: digitization.
+ Several other extensions to this function can be used to add value.
+ 
+ 1. Setting alerts for specific sessions within schedule
+ 2. Send schedules to others?
+ 3. 
+ 
 #### Q2: Who are your target users?
 
 YOUR ANSWER GOES HERE ...
@@ -28,6 +42,8 @@ YOUR ANSWER GOES HERE ...
  * Feel free (but not obligated) to use personas.        
    You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).
 
+ 1. University students and professionals who may attend many networking events
+ 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
 YOUR ANSWER GOES HERE ...
@@ -39,7 +55,11 @@ YOUR ANSWER GOES HERE ...
     * Allow users to discover new information (which information? And, why couldn't they discover it before?)
     * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
 
-
+ 1. Convenient
+	- Easy way to ditigize a physical schedule
+	- Saves the need to carry around paper
+ 2. Has more value than taking a picture of a schedule
+	- User can set alerts for specific sessions/events of interest
 ----
 
 ### Highlights
